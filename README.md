@@ -5,8 +5,7 @@ five genetic architectures with [AlphaSimR](https://cran.r-project.org/package=A
 
 Supporting code for:
 
-> Crossa, J. et al. *Apparent additivity in crop hybrids arises from the projection of
-> dominance and epistasis.*
+Crossa, J. et al. Apparent additivity in crop hybrids can arise from the projection of dominance.*
 
 The simulations are not used to estimate projection ratios. They compare long-term breeding
 response when the underlying architecture is additive, epistatic or dominant, under otherwise
